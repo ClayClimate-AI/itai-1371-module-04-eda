@@ -4,3 +4,9 @@ __pycache__/
 .DS_Store
 *.pyc
 .pytest_cache/
+
+# Builder-loop process files kept local only, not pushed to the remote
+CLAUDE.md
+progress.md
+checkpoints.md
+docs/Lab04_status_and_PIOF.md
