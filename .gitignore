@@ -13,3 +13,6 @@ docs/Lab04_status_and_PIOF.md
 
 # Unrelated IDE tooling config, not part of this assignment
 .cursor/
+
+# ADRs documenting internal process decisions, kept local only
+docs/adr/
