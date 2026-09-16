@@ -1,6 +1,6 @@
-# Contribution journal draft: Lab 04
+# Contribution Journal — Lab 04
 
-Final submit: 1 to 2 page PDF (`L04Journal_C_SingleEpoch_ITAI1371.pdf`).
+SingleEpoch | ITAI 1371 Module 04
 
 ## Individual contribution statement
 

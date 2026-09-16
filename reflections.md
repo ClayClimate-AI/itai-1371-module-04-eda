@@ -1,6 +1,6 @@
-# Reflections draft: Lab 04
+# Reflective Journal — Lab 04
 
-Final submit: 1 to 2 page PDF (`L04Journal_R_SingleEpoch_ITAI1371.pdf`).
+SingleEpoch | ITAI 1371 Module 04
 
 ## 1. What did EDA change about how you see the Titanic features?
 

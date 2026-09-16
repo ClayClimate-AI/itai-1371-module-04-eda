@@ -12,3 +12,7 @@ seaborn>=0.12
 pytest>=7.4
 jupyter>=1.0
 nbconvert>=7.0
+
+# PDF export tooling (same approach as Module 3: nbconvert --to html
+# with a wrap-CSS override, rendered to PDF via local Playwright/Chromium)
+playwright>=1.40
