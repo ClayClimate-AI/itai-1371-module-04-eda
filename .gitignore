@@ -10,3 +10,6 @@ CLAUDE.md
 progress.md
 checkpoints.md
 docs/Lab04_status_and_PIOF.md
+
+# Unrelated IDE tooling config, not part of this assignment
+.cursor/
